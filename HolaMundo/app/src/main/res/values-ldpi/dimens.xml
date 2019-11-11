@@ -1,0 +1,8 @@
+<resources>
+	<dimen name="top_spacing">48dp</dimen>
+	<dimen name="btn_enter_width">187.5dp</dimen>
+	<dimen name="btn_enter_heigth">60dp</dimen>
+	<dimen name="bottom_spacing">36dp</dimen>
+	<dimen name="texto_bienvenida">36sp</dimen>
+	<dimen name="texto_enter">15sp</dimen>
+</resources>

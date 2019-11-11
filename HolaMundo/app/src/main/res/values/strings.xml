@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_bienvenida">Bienvenido</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="app_name" translatable="false">MiPrimerProyecto</string>
+    <string name="background_desc" translatable="false">back_desc</string>
+</resources>

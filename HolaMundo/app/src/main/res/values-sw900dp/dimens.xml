@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_spacing">128dp</dimen>
+    <dimen name="btn_enter_width">450dp</dimen>
+    <dimen name="btn_enter_heigth">150dp</dimen>
+    <dimen name="bottom_spacing">192dp</dimen>
+    <dimen name="texto_bienvenida">150sp</dimen>
+    <dimen name="texto_enter">48sp</dimen>
+</resources>
